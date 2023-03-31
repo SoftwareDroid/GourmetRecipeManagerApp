@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dataxad.fluttermailer" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml
+6
+7    <application>
+7-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:3:5-13:19
+8        <provider
+8-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:4:9-12:20
+9            android:name="com.dataxad.fluttermailer.FlutterMailerFileProvider"
+9-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:5:13-79
+10            android:authorities="dollar_openBracket_applicationId_closeBracket.adv_provider"
+10-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:6:13-64
+11            android:exported="false"
+11-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:7:13-37
+12            android:grantUriPermissions="true" >
+12-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:8:13-47
+13            <meta-data
+13-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:9:13-11:63
+14                android:name="android.support.FILE_PROVIDER_PATHS"
+14-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:10:17-67
+15                android:resource="@xml/flutter_mailer_paths" />
+15-->/home/patrick/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-0.4.2/android/src/main/AndroidManifest.xml:11:17-61
+16        </provider>
+17    </application>
+18
+19</manifest>

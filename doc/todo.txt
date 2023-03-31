@@ -1,0 +1,16 @@
+flutter pub run build_runner build
+
+- Example DB in Respostory 
+- Rezpete Name korrekt in die Mail mitaufnehemn
+
+
+Penaltiy Rezepte gleiches Cuisine schon im Eikaufswagen
+
+
+Lokla Testen
+
+https://f-droid.org/docs/Inclusion_How-To/
+https://nikhiljha.com/posts/flutteronfdroid/
+
+App Icon (Bento Box) (https://www.fileformat.info/info/emoji/bento/index.htm)
+
